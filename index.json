@@ -1,0 +1,11 @@
+{
+  "org": "pyeve",
+  "repo": "eve-sqlalchemy",
+  "versions": [
+    {
+      "commit": "0d5fda3d4739115be84a9bcecdb141f09265a397",
+      "tag": "",
+      "parsed_at": "2026-10-20T14:36:07.931142+00:00"
+    }
+  ]
+}
