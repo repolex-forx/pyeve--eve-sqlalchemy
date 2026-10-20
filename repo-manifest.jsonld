@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pyeve/eve-sqlalchemy/commit/0d5fda3d4739115be84a9bcecdb141f09265a397",
       "git:hexsha": "0d5fda3d4739115be84a9bcecdb141f09265a397",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T14:36:07.930526+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pyeve/eve-sqlalchemy/commit/cdc58e3c2f0897756d551f0c6efba66c1f800fa9",
